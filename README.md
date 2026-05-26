@@ -19,11 +19,13 @@ A modern weather application built using HTML, CSS, and JavaScript with OpenWeat
 - JavaScript
 - OpenWeather API
 
+## 🔗 API Used
+
+- OpenWeather API
+
 ## 📸 Screenshot
 
 ![Weather App Screenshot](image.png)
 ![App Screenshot](Screenshot%202026-05-26%20171148.png)
 
-## 🔗 API Used
 
-- OpenWeather API
